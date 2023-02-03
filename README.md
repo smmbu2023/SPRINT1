@@ -5,7 +5,7 @@
 * Project started: Monday, Jan 30, 2023
 * Project submitted: Friday, Feb 3, 2023
 * Effort: about 3 hours per day
-* Github repo: smmbu2023
+* Github repo: https://github.com/smmbu2023/SPRINT1
 <br>
 <br>
 
